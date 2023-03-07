@@ -8,8 +8,8 @@
 <img src="/images/LoSIMSDiagram.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Water Management for the Future of Asubpeechoseewagong Netum Anishinabek](https://www.urbanwateratlas.com/2021/12/04/grassy-narrows-first-nation-asubpeechoseewagong-netum-anishinabek-water-management-for-the-future/)
+<img src="/images/WaterChallenges_GNFN.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)

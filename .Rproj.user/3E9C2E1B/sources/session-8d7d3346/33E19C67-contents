@@ -11,6 +11,9 @@ of these areas below.
 ### Water Infrastructure Case Studies 
 
 [LoSIMS: Local-scale Stormwater Infrastructure Monitoring System](http://www.sensingthecity.com/losims/)
+As part of an interdisciplinary team, I designed a sensor-based system to monitor
+stormwater inlet blockage and failure. Data from sensor systems have the potential
+to inform long-term infrastructural investments.
 <img src="/images/LoSIMSDiagram.jpg?raw=true"/>
 
 ---

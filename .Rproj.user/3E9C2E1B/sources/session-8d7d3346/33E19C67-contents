@@ -3,8 +3,9 @@ I am in the final semester of a graduate program for city and regional planning 
 the Weitzman School of Design at the University of Pennsylvania. My work in this program
 focuses on water infrastructure resilience, geospatial modeling techniques for land use
 and environmental planning, and addressing legacy contamination in Rust Belt communities
-thorugh a mix of policy and design interventions. You can find some samples of my work in each
+through a mix of policy and design interventions. You can find some samples of my work in each
 of these areas below.
+
 ---
 
 ### Water Infrastructure Case Studies 
@@ -24,14 +25,21 @@ of these areas below.
 
 ### Land Use and Environmental Modeling
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Probabilistic Flood Modeling in St. Louis](http://example.com/)
+- [Agent-Based Modeling of Aquifer Depletion](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
 
+### Legacy Contamination in Rust Belt Communities
+
+- [Proposal for a Flood Modeling Institude for the Monongaheal River Basin](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 
 

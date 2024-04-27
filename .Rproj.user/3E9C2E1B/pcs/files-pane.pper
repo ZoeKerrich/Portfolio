@@ -1,9 +1,9 @@
 {
-    "path": "~/ZK_docs/Portfolio",
     "sortOrder": [
         {
             "columnIndex": 2,
             "ascending": true
         }
-    ]
+    ],
+    "path": "~/ZK_docs/Portfolio"
 }
